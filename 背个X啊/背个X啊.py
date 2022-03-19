@@ -95,7 +95,7 @@ def ShowInfo():
         messagebox.showinfo('程序介绍','你也可以试试这个程序来提高你背诵的效率！\n\n背个X啊会去掉一部分文字，留下一些提示，辅助背诵，让背诵更轻松，效率更高！')
 
 def ShowMyInfo():
-    messagebox.showinfo('作者信息','YangguangZhou \n https://jzhome.vercel.app/')
+    messagebox.showinfo('作者信息','YangguangZhou \n https://jerryz.com.cn/')
 
 def Exit():
     win.quit()
